@@ -1,0 +1,48 @@
+body{
+    background-color: pink;
+}
+#container{
+    gap: 200px;
+    display: flex;
+    background-color: orange;
+}
+#name{
+    text-decoration: underline;
+    font-size: 50px;
+    color: blue;
+}
+nav{
+    font-size: 70px;
+    text-align: center;
+    color: red;
+}
+#luffy{
+    height: 400px;
+    border-radius: 50rem;
+    width: 400px;
+}
+/* footer styles */
+footer{
+    text-align: center;
+    background-color: brown;
+}
+.imageicons{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.icon {
+    display: inline-block;
+    width: 20%;
+}
+header{
+    background-color: yellow;
+}
+#lorem{
+    background-color: aqua;
+    color: black;
+}
+#me{
+    background-image: url('/asset/luffy.png');
+    background-size:cover;
+}
